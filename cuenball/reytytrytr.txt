@@ -1,0 +1,160 @@
+European Masters
+Total Prize fund: £407,000
+
+Winner's share: £80,000
+
+Defending champion: Fan Zhengyi
+
+The Championship League is the official start of the 2022/23 season, but as far as the top players are concerned things get underway at the European Masters in August.
+
+This year's edition will take place in Germany with Stadhalle in Furth doing the honours of hosting.
+
+Fan Zhengyi is the defending champion foillowing his success in Milton Keynes last season.
+
+
+British Open
+
+Total Prize fund: £470,000
+
+Winner's share: £100,000
+
+Defending champion: Mark Williams
+
+The British Masters took a 17-year hiatus until last year, but everyone was happy to see it return.
+
+Marshall Arena in Milton Keynes will be hosting and Mark Williams will be defending.
+
+The Welsh Potting Machine was not at his usual smooth best despite winning the tournament last year, but he will happily take that again if it means successfully defending his crown.
+
+
+Northern Ireland Open
+Mark Allen during his match against Judd Trump during day four of the 2022 Cazoo Masters
+Total Prize fund: £405,000
+
+Winner's share: £70,000
+
+Defending champion: Mark Allen
+
+The Home Nations Series gets underway in Belfast in October with the Northern Ireland Masters.
+
+Last season it was won by home favourite Mark Allen, and he will be desperate to repeat that this time around.
+
+
+October 31-November 6 - Champion of Champions (Invitational)
+Judd Trump, Turkish Open
+Total Prize fund: £440,000
+
+Winner's share: £150,000
+
+Defending champion: Judd Trump
+
+There are no rankings points available in the Champion of Champions, but it is still one of the most coveted titles around.
+
+It's an invitational event, which means fewer competititors sharing the prize fund.
+
+What the players are really competing for, though, is the bragging rights.
+
+
+
+November 12-20 - UK Championship
+Total Prize fund: £1,009,000
+
+Winner's share: £200,000
+
+Defending champion: Zhao Xintong
+
+The season really clicks into another gear in November as the players converge on the Barbican Centre in York for the first Triple Crown event of the campaign.
+
+Last season the brilliant Zhao Xintong, becoming the fourth Chinese player to win a ranking title, won the title and there was a 147 from Gary Wilson.
+
+Xintong beat Luca Brecel to the title, which made it an all-debutant final.
+
+
+
+November 28 - December 4 - Scottish Open
+Luca Brecel in confident mood
+Total Prize fund: £405,000
+
+Winner's share: £70,000
+
+Defending champion: Luca Brecel
+
+The Home Nations Series moves to Scotland in November, although last year it was held in Wales so don't take that literally.
+
+A venue for the 2022 edition is yet to be confirmed at this stage, but it will be Luca Brecel, who had the temerity to beat Scotsman John Higgins in the final, defending.
+
+There was a 147 in this event last year too, with Xiao Goudong obliging.
+
+
+
+December 12-18 - English Open
+Total Prize fund: £405,000
+
+Winner's share: £70,000
+
+Defending champion: Neil Robertson
+
+The English Open final in 2021 was arguably snookers best match of the season, with Neil Robertson beating John Higgins 9-8 in an absolute thriller.
+
+Milton Keynes' Marshall Arena had the hosting duties last season but the event will move to Brentwood in Essex for the 2022 edition.
+
+
+
+January 8-15 - The Masters
+Neil Robertson won the Final of Masters 2022
+Total Prize fund: £750,000
+
+Winner's share: £250,000
+
+Defending champion: Neil Robertson
+
+The second part of the Triple Crown roars into Alexandria Palace in January for what may be the most unique atmosphere in snooker.
+
+It's a non-ranking event that invites the top 16 players in the world only to fight it out for some big money and prestige.
+
+Last year it was won by Neil Robertson, who was close to being unstoppable at times during the season.
+
+
+
+April 15 - May 1 - World Championship
+Ronnie O'Sullivan, Snooker World Championship
+Total Prize fund: £2,395,000
+
+Winner's share: £500,000
+
+Defending champion: Ronnie O'Sullivan
+
+Obviously this is the big one that the whole season builds towards.
+
+Last season was a real corwd-pleaser with the class of 92 all making the semi-finals and Ronnie O'Sullivan winning a record-equalling seventh world title.
+
+Can he go one better in 2023 and become the first player to win eight? Or will one of the richly Chinese youngsters finally come through and win a historic first world corwn for their country?
+
+
+
+
+
+<section id="TOURNAMENTS">
+<h2>Tournaments on International Level</h2>
+    <div class="container">
+    <div class="row">
+    <div class="col-md-6 TOURNAMENTS">
+        
+        <img src="C:\Users\Hac\OneDrive\Desktop\cuenball\images\tourna1.jpg" class="tour-img">
+        <h4>European Masters</h4>
+        <p>Total Prize fund: £407,000 <br>
+            Winner's share: £80,000 <br>
+            Defending champion: Fan Zhengyi <br>
+            The Championship League is the official start of the 2022/23 season, but as far as the top players are concerned things get underway at the European Masters in August.</p>
+        </div>
+            <div class="col-md-6 TOURNAMENTS">    
+        <img src="C:\Users\Hac\OneDrive\Desktop\cuenball\images\tourna1.jpg" class="tour-img">
+        <h4>European Masters</h4>
+        <p>Total Prize fund: £407,000 <br>
+        Winner's share: £80,000 <br>
+        Defending champion: Fan Zhengyi <br>
+        The Championship League is the official start of the 2022/23 season, but as far as the top players are concerned things get underway at the European Masters in August.</p>
+        </div>    
+    </div>
+
+</section>
